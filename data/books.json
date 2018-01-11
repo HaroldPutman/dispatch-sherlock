@@ -1,0 +1,302 @@
+{
+  "acoi": {
+    "title": "A Case of Identity",
+    "url": "https://www.gutenberg.org/files/1661/1661-h/1661-h.htm",
+    "bookmark": "3",
+    "method": "story"
+  },
+  "asib": {
+    "title": "A Scandal In Bohemia",
+    "url": "https://www.gutenberg.org/files/1661/1661-h/1661-h.htm",
+    "bookmark": "1",
+    "method": "story"
+  },
+  "asis": {
+    "title": "A study in scarlet",
+    "url": "https://www.gutenberg.org/files/244/244-h/244-h.htm",
+    "bookmark": "link2HCH0001",
+    "method": "book1"
+  },
+  "sb": {
+    "title": "Silver Blaze",
+    "url": "http://www.gutenberg.org/files/834/834-h/834-h.htm",
+    "bookmark": "link2H_4_0001",
+    "method": "story2"
+  },
+  "taobp": {
+    "title": "The Adventure Of Black Peter",
+    "url": "http://www.gutenberg.org/files/108/108-h/108-h.htm",
+    "bookmark": "linkH2H_4_0006",
+    "method": "book2"
+  },
+  "taocam": {
+    "title": "The Adventure Of Charles Augustus Milverton",
+    "url": "http://www.gutenberg.org/files/108/108-h/108-h.htm",
+    "bookmark": "linkH2H_4_0007",
+    "method": "book2"
+  },
+  "taotag": {
+    "title": "The Adventure Of The Abby Grange",
+    "url": "http://www.gutenberg.org/files/108/108-h/108-h.htm",
+    "bookmark": "linkH2H_4_0012",
+    "method": "book2"
+  },
+  "taotbc1": {
+    "title": "The Adventure of the Blue Carbuncle",
+    "url": "https://www.gutenberg.org/files/1661/1661-h/1661-h.htm",
+    "bookmark": "7",
+    "method": "story"
+  },
+  "taotbc2": {
+    "title": "The Adventure of the Beryl Coronet",
+    "url": "https://www.gutenberg.org/files/1661/1661-h/1661-h.htm",
+    "bookmark": "11",
+    "method": "story"
+  },
+  "taotcb": {
+    "title": "The Adventure of the Copper Beeches",
+    "url": "https://www.gutenberg.org/files/1661/1661-h/1661-h.htm",
+    "bookmark": "12",
+    "method": "story"
+  },
+  "taotdm": {
+    "title": "The Adventure Of The Dancing Men",
+    "url": "http://www.gutenberg.org/files/108/108-h/108-h.htm",
+    "bookmark": "linkH2H_4_0003",
+    "method": "book2"
+  },
+  "taoteh": {
+    "title": "The Adventure of the empty house",
+    "url": "http://www.gutenberg.org/files/108/108-h/108-h.htm",
+    "bookmark": "linkH2H_4_0001",
+    "method": "book2"
+  },
+  "taotet": {
+    "title": "The Adventure of the Engineer’s Thumb",
+    "url": "https://www.gutenberg.org/files/1661/1661-h/1661-h.htm",
+    "bookmark": "9",
+    "method": "story"
+  },
+  "taotgpn": {
+    "title": "The Adventure Of The Golden Pince-nez",
+    "url": "http://www.gutenberg.org/files/108/108-h/108-h.htm",
+    "bookmark": "linkH2H_4_0010",
+    "method": "book2"
+  },
+  "taotmtq": {
+    "title": "The Adventure Of The Missing Three-Quarter",
+    "url": "http://www.gutenberg.org/files/108/108-h/108-h.htm",
+    "bookmark": "linkH2H_4_0011",
+    "method": "book2"
+  },
+  "taotnb": {
+    "title": "The Adventure of the Norwood Builder",
+    "url": "http://www.gutenberg.org/files/108/108-h/108-h.htm",
+    "bookmark": "linkH2H_4_0002",
+    "method": "book2"
+  },
+  "taotps": {
+    "title": "The Adventure Of The Priory School",
+    "url": "http://www.gutenberg.org/files/108/108-h/108-h.htm",
+    "bookmark": "linkH2H_4_0005",
+    "method": "book2"
+  },
+  "taotsb": {
+    "title": "The Adventure of the Speckled Band",
+    "url": "https://www.gutenberg.org/files/1661/1661-h/1661-h.htm",
+    "bookmark": "8",
+    "method": "story"
+  },
+  "taotsc": {
+    "title": "The Adventure Of The Solitary Cyclist",
+    "url": "http://www.gutenberg.org/files/108/108-h/108-h.htm",
+    "bookmark": "linkH2H_4_0004",
+    "method": "book2"
+  },
+  "taotsn": {
+    "title": "The Adventure Of The Six Napoleans",
+    "url": "http://www.gutenberg.org/files/108/108-h/108-h.htm",
+    "bookmark": "linkH2H_4_0008",
+    "method": "book2"
+  },
+  "taotss": {
+    "title": "The Adventure Of The Second Stain",
+    "url": "http://www.gutenberg.org/files/108/108-h/108-h.htm",
+    "bookmark": "linkH2H_4_0013",
+    "method": "book2"
+  },
+  "taotts": {
+    "title": "The Adventure Of The Three Students",
+    "url": "http://www.gutenberg.org/files/108/108-h/108-h.htm",
+    "bookmark": "linkH2H_4_0009",
+    "method": "book2"
+  },
+  "tbvm": {
+    "title": "The Boscombe Valley Mystery",
+    "url": "https://www.gutenberg.org/files/1661/1661-h/1661-h.htm",
+    "bookmark": "4",
+    "method": "story"
+  },
+  "tcm": {
+    "title": "The Crooked Man",
+    "url": "http://www.gutenberg.org/files/834/834-h/834-h.htm",
+    "bookmark": "link2H_4_0007",
+    "method": "story2"
+  },
+  "tfop": {
+    "title": "The Five Orange Pips",
+    "url": "https://www.gutenberg.org/files/1661/1661-h/1661-h.htm",
+    "bookmark": "5",
+    "method": "story"
+  },
+  "tfp": {
+    "title": "The Final Problem",
+    "url": "http://www.gutenberg.org/files/834/834-h/834-h.htm",
+    "bookmark": "link2H_4_0011",
+    "method": "story2"
+  },
+  "tgi": {
+    "title": "The Greek Interpreter",
+    "url": "http://www.gutenberg.org/files/834/834-h/834-h.htm",
+    "bookmark": "link2H_4_0009",
+    "method": "story2"
+  },
+  "tgs": {
+    "title": "The Gloria Scott",
+    "url": "http://www.gutenberg.org/files/834/834-h/834-h.htm",
+    "bookmark": "link2H_4_0004",
+    "method": "story2"
+  },
+  "thotb": {
+    "title": "The Hound of the Baskervilles",
+    "url": "http://www.gutenberg.org/files/3070/3070-h/3070-h.htm",
+    "bookmark": "Chapter_1",
+    "method": "book2"
+  },
+  "tmr": {
+    "title": "The Musgrave Ritual",
+    "url": "http://www.gutenberg.org/files/834/834-h/834-h.htm",
+    "bookmark": "link2H_4_0005",
+    "method": "story2"
+  },
+  "tmwttl": {
+    "title": "The Man with the Twisted Lip",
+    "url": "https://www.gutenberg.org/files/1661/1661-h/1661-h.htm",
+    "bookmark": "6",
+    "method": "story"
+  },
+  "tnt": {
+    "title": "The Naval Treaty",
+    "url": "http://www.gutenberg.org/files/834/834-h/834-h.htm",
+    "bookmark": "link2H_4_0010",
+    "method": "story2"
+  },
+  "trhl": {
+    "title": "The Red-Headed League",
+    "url": "https://www.gutenberg.org/files/1661/1661-h/1661-h.htm",
+    "bookmark": "2",
+    "method": "story"
+  },
+  "trp": {
+    "title": "The Resident Patient",
+    "url": "http://www.gutenberg.org/files/834/834-h/834-h.htm",
+    "bookmark": "link2H_4_0008",
+    "method": "story2"
+  },
+  "tsbc": {
+    "title": "The Stock-Broker’s Clerk",
+    "url": "http://www.gutenberg.org/files/834/834-h/834-h.htm",
+    "bookmark": "link2H_4_0003",
+    "method": "story2"
+  },
+  "tsotf": {
+    "title": "The Sign of the Four",
+    "url": "http://www.gutenberg.org/files/2097/2097-h/2097-h.htm",
+    "bookmark": "chap01",
+    "method": "book3"
+  },
+  "tvof": {
+    "title": "The Valley of Fear",
+    "url": "http://www.gutenberg.org/files/3289/3289-h/3289-h.htm",
+    "bookmark": "link2HCH0001",
+    "method": "book1"
+  },
+  "tyf": {
+    "title": "The Yellow Face",
+    "url": "http://www.gutenberg.org/files/834/834-h/834-h.htm",
+    "bookmark": "link2H_4_0002",
+    "method": "story2"
+  },
+  "taotms": {
+    "title": "The Adventure of the Mazarin Stone",
+    "url": "http://gutenberg.net.au/ebooks01/0100291h.html",
+    "bookmark": "ref01",
+    "method": "story2"
+  },
+  "tpotb": {
+    "title": "The Problem of Thor Bridge",
+    "url": "http://gutenberg.net.au/ebooks01/0100291h.html",
+    "bookmark": "ref02",
+    "method": "story2"
+  },
+  "taotcm": {
+    "title": "The Adventure of the Creeping Man",
+    "url": "http://gutenberg.net.au/ebooks01/0100291h.html",
+    "bookmark": "ref03",
+    "method": "story2"
+  },
+  "taotsv": {
+    "title": "The Adventure of the Sussex Vampire",
+    "url": "http://gutenberg.net.au/ebooks01/0100291h.html",
+    "bookmark": "ref04",
+    "method": "story2"
+  },
+  "taottg1": {
+    "title": "The Adventure of the Three Garridebs",
+    "url": "http://gutenberg.net.au/ebooks01/0100291h.html",
+    "bookmark": "ref05",
+    "method": "story2"
+  },
+  "taotic": {
+    "title": "The Adventure of the Illustious Client",
+    "url": "http://gutenberg.net.au/ebooks01/0100291h.html",
+    "bookmark": "ref06",
+    "method": "story2"
+  },
+  "taottg2": {
+    "title": "The Adventure of the Three Gables",
+    "url": "http://gutenberg.net.au/ebooks01/0100291h.html",
+    "bookmark": "ref07",
+    "method": "story2"
+  },
+  "taotbs": {
+    "title": "The Adventure of the Blanched Soldier",
+    "url": "http://gutenberg.net.au/ebooks01/0100291h.html",
+    "bookmark": "ref08",
+    "method": "story2"
+  },
+  "taotlm": {
+    "title": "The Adventure of the Lion's Mane",
+    "url": "http://gutenberg.net.au/ebooks01/0100291h.html",
+    "bookmark": "ref09",
+    "method": "story2"
+  },
+  "taotrc": {
+    "title": "The Adventure of the Retired Colourman",
+    "url": "http://gutenberg.net.au/ebooks01/0100291h.html",
+    "bookmark": "ref10",
+    "method": "story2"
+  },
+  "taotvl": {
+    "title": "The Adventure of the Veiled Lodger",
+    "url": "http://gutenberg.net.au/ebooks01/0100291h.html",
+    "bookmark": "ref11",
+    "method": "story2"
+  },
+  "taosop": {
+    "title": "The Adventure of Shoscombe Old Place",
+    "url": "http://gutenberg.net.au/ebooks01/0100291h.html",
+    "bookmark": "ref12",
+    "method": "story2"
+  }
+}

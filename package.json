@@ -1,0 +1,16 @@
+{
+  "name": "dispatch-sherlock",
+  "version": "1.0.0",
+  "description": "Solver for mystery code in Dispatch game.",
+  "main": "decode.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Harold Putman <h.putman@ieee.org>",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "request": "^2.83.0",
+    "sbd": "^1.0.12"
+  }
+}

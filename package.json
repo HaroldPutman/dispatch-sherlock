@@ -6,11 +6,18 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": "github:HaroldPutman/dispatch-sherlock",
   "author": "Harold Putman <h.putman@ieee.org>",
-  "license": "ISC",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HaroldPutman/dispatch-sherlock/issues"
+  },
   "dependencies": {
     "cheerio": "^1.0.0-rc.2",
     "request": "^2.83.0",
     "sbd": "^1.0.12"
+  },
+  "engines": {
+    "node": ">=4.0.0"
   }
 }

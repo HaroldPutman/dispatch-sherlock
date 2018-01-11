@@ -4,6 +4,7 @@
   "description": "Solver for mystery code in Dispatch game.",
   "main": "decode.js",
   "scripts": {
+    "prettier-watch": "onchange '**/*.js' -- prettier --write {{changed}}",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": "github:HaroldPutman/dispatch-sherlock",
@@ -19,5 +20,9 @@
   },
   "engines": {
     "node": ">=4.0.0"
+  },
+  "devDependencies": {
+    "onchange": "^3.3.0",
+    "prettier": "1.10.2"
   }
 }

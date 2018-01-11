@@ -50,6 +50,7 @@ function decode(ttl, ref) {
     const ts = tokenizer.sentences(tp)[sentence - 1].trim();
     console.log(`sentence: ${ts}`);
     const words = ts.split(/\s+/);
-    console.log(`word: ${words[word - 1]}`);
+    const result = words[word - 1].replace(/[^\w]/g, '');
+    console.log(`word: ${result}`);
   });
 }

@@ -5,7 +5,7 @@
   "main": "decode.js",
   "scripts": {
     "prettier-watch": "onchange '**/*.js' -- prettier --write {{changed}}",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "snyk test"
   },
   "repository": "github:HaroldPutman/dispatch-sherlock",
   "author": "Harold Putman <h.putman@ieee.org>",
@@ -23,6 +23,7 @@
   },
   "devDependencies": {
     "onchange": "^3.3.0",
-    "prettier": "1.10.2"
+    "prettier": "1.10.2",
+    "snyk": "^1.69.7"
   }
 }

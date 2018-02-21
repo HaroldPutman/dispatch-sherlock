@@ -20,28 +20,33 @@ decode(argv[0], argv[1]);
  */
 function decode(ttl, ref) {
   const book = books[ttl];
-  const [paragraph, sentence, word] = ref.split('-');
   console.log(`Reading ${book.title} from ${book.url}...`);
   request(book.url, function(error, response, body) {
     if (error) {
       throw new Error('Error fetch document.');
     }
     const pars = processHtml(body, book.bookmark, book.method);
-    if (paragraph > pars.length) {
-      throw new Error(`ERROR: Paragraph ${paragraph} does not exist.`);
-    }
-    const sents = pars[paragraph - 1].text;
-    if (sentence > sents.length) {
-      console.log(sents.join(' '));
-      throw new Error(`ERROR: There is no sentence ${sentence} in paragraph ${paragraph}.`);
-    }
-    const words = sents[sentence - 1].split(/[ ,]+/);
-    if (word > words.length) {
-      console.log(sents[sentence - 1]);
-      throw new Error(`ERROR: There is no word ${word} in sentence ${sentence} of paragraph ${paragraph}.`);
-    }
-    console.log(words[word - 1]);
+    const answer = lookupWord(text, ref);
+    console.log(answer);
   });
+}
+
+function lookupWord(text, ref) {
+  const [paragraph, sentence, word] = ref.split('-');
+  if (paragraph > pars.length) {
+    throw new Error(`ERROR: Paragraph ${paragraph} does not exist.`);
+  }
+  const sents = pars[paragraph - 1].text;
+  if (sentence > sents.length) {
+    console.log(sents.join(' '));
+    throw new Error(`ERROR: There is no sentence ${sentence} in paragraph ${paragraph}.`);
+  }
+  const words = sents[sentence - 1].split(/[ ,]+/);
+  if (word > words.length) {
+    console.log(sents[sentence - 1]);
+    throw new Error(`ERROR: There is no word ${word} in sentence ${sentence} of paragraph ${paragraph}.`);
+  }
+  return words[word - 1]);
 }
 
 /**

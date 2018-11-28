@@ -15,8 +15,8 @@
   },
   "dependencies": {
     "cheerio": "^1.0.0-rc.2",
-    "request": "^2.83.0",
-    "sbd": "^1.0.12"
+    "request": "^2.88.0",
+    "sbd": "^1.0.14"
   },
   "engines": {
     "node": ">=4.0.0"
@@ -24,6 +24,6 @@
   "devDependencies": {
     "onchange": "^3.3.0",
     "prettier": "1.10.2",
-    "snyk": "^1.69.7"
+    "snyk": "^1.110.2"
   }
 }

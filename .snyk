@@ -1,5 +1,5 @@
 # Snyk (https://snyk.io) policy file, patches or ignores known vulnerabilities.
-version: v1.13.1
+version: v1.13.5
 # ignores vulnerabilities until expiry date; change duration by modifying expiry date
 ignore:
   'npm:hoek:20180212':
@@ -13,4 +13,8 @@ ignore:
     - cheerio > lodash:
         reason: Waiting for fix
         expires: '2018-03-23T13:07:52.822Z'
-patch: {}
+# patches apply the minimum changes required to fix a vulnerability
+patch:
+  SNYK-JS-LODASH-450202:
+    - cheerio > lodash:
+        patched: '2019-07-04T04:42:04.677Z'

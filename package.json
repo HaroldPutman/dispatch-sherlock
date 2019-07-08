@@ -5,7 +5,9 @@
   "main": "decode.js",
   "scripts": {
     "prettier-watch": "onchange '**/*.js' -- prettier --write {{changed}}",
-    "test": "snyk test"
+    "test": "snyk test",
+    "snyk-protect": "snyk protect",
+    "prepare": "npm run snyk-protect"
   },
   "repository": "github:HaroldPutman/dispatch-sherlock",
   "author": "Harold Putman <h.putman@ieee.org>",
@@ -16,14 +18,15 @@
   "dependencies": {
     "cheerio": "^1.0.0-rc.2",
     "request": "^2.88.0",
-    "sbd": "^1.0.14"
+    "sbd": "^1.0.14",
+    "snyk": "^1.189.0"
   },
   "engines": {
     "node": ">=4.0.0"
   },
   "devDependencies": {
     "onchange": "^3.3.0",
-    "prettier": "1.10.2",
-    "snyk": "^1.110.2"
-  }
+    "prettier": "1.10.2"
+  },
+  "snyk": true
 }

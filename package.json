@@ -6,7 +6,7 @@
   "scripts": {
     "prettier-watch": "onchange '**/*.js' -- prettier --write {{changed}}",
     "test": "snyk test",
-    "snyk-protect": "snyk protect",
+    "snyk-protect": "snyk-protect",
     "prepare": "npm run snyk-protect"
   },
   "repository": "github:HaroldPutman/dispatch-sherlock",
@@ -19,7 +19,8 @@
     "cheerio": "^1.0.0-rc.2",
     "request": "^2.88.0",
     "sbd": "^1.0.14",
-    "snyk": "^1.290.1"
+    "snyk": "^1.883.0",
+    "@snyk/protect": "latest"
   },
   "engines": {
     "node": ">=4.0.0"
